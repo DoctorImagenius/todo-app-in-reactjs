@@ -294,9 +294,12 @@ body {
   color: white;
 }
 
+.todo-item{
+  display: flex;
+  flex-direction: column;
+}
 .todo-edit-input,
 .todo-edit-textarea {
-  width: 100%;
   background-color: #1a1a1a;
   color: #00fff7;
   border: 1px solid #00fff7;
