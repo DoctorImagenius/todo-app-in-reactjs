@@ -27,7 +27,7 @@ The app has a clean, modern UI design with mobile responsiveness and modal dialo
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-todo-app.git
+   git clone github.com/DoctorImagenius/todo-app-in-reactjs.git
    ```
 
 2. Install dependencies:
